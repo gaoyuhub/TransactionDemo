@@ -1,5 +1,6 @@
 package com.person.yvan.test.threadPool;
 
+
 public interface ThreadPool {
 
     //submit task to thread pool
